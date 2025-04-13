@@ -1,0 +1,11 @@
+Aprendizado: Ambiente de Pipeline no Azure
+Neste estudo, explorei os principais componentes de um pipeline no Azure Data Factory, entendendo como eles se conectam para mover e transformar dados de forma automatizada e escalável.
+
+🔧 Conceitos Aprendidos
+Linked Services: São as conexões com fontes e destinos de dados, como Azure Blob Storage, bancos SQL, etc. Funcionam como “pontes” entre o Data Factory e os dados externos.
+
+Dataset: Representa os dados que serão utilizados no pipeline. Ele define a estrutura e o caminho até os arquivos ou tabelas.
+
+Integration Runtime (IR): É o motor de execução das atividades do pipeline. Pode ser auto-hospedado ou na nuvem, e define onde e como os dados serão processados.
+
+Arquivos: Trabalhei principalmente com arquivos CSV armazenados no Azure Blob Storage, entendendo como fazer ingestão, transformação e movimentação desses dados dentro d
