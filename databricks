@@ -1,0 +1,32 @@
+
+
+# 📘 Curso: Explorando o Azure Databricks
+
+Este curso tem como objetivo apresentar os conceitos fundamentais e práticas essenciais para utilizar o **Azure Databricks**, uma plataforma de análise de dados baseada em Apache Spark, otimizada para a nuvem da Microsoft Azure.
+
+## 🧠 Conteúdo do Curso
+
+### 1. Entendendo o Azure Databricks
+Introdução ao Databricks, explicando sua arquitetura, benefícios, integração com o Azure e cenários de uso.
+
+### 2. Azure Databricks Exercises
+Atividades práticas para reforçar os conceitos aprendidos durante a parte teórica do curso.
+
+### 3. Provisionando um Databricks
+Guia passo a passo para criar um workspace no Azure Databricks, incluindo configurações iniciais e permissões necessárias.
+
+### 4. Criando um Cluster
+Demonstração de como configurar e iniciar um cluster no Databricks, fundamental para processar grandes volumes de dados com Apache Spark.
+
+### 5. Usando o Spark para Analisar Dados
+Uso prático do Spark dentro do Databricks para realizar análise de dados, incluindo leitura, transformação e visualização de dados.
+
+### 6. Encerramento
+Resumo dos conteúdos abordados e considerações finais sobre a aplicação do Azure Databricks no contexto profissional.
+
+### 7. Materiais de Apoio
+Recursos adicionais, links e documentos para aprofundamento nos tópicos estudados.
+
+---
+
+Se quiser, posso também gerar esse conteúdo em inglês, formatar como arquivo `.md` ou ainda adaptar para um portfólio online. Quer alguma dessas opções?
